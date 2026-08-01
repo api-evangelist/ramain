@@ -1,24 +1,79 @@
 aid: ramain
-name: Ramain
-description: Ramain is a company surfaced as a portfolio company of general-catalyst, y-combinator and
-  added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+name: RamAIn
+description: >-
+  RamAIn builds AI agents that automate any UI task with natural language. A Y
+  Combinator (W26) company backed by General Catalyst and Nexus Venture Partners,
+  RamAIn operates web portals, desktop apps, and legacy systems the way a human
+  does — reading screens and interacting with UI elements — then compiles those
+  workflows into reusable, self-healing automations that can be published and
+  managed as APIs. It targets high-friction, document-heavy back-office work
+  across mortgage, finance, healthcare, and insurance.
 url: https://raw.githubusercontent.com/api-evangelist/ramain/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://ramain.ai/assets/footer-ramain-wordmark-D44wv3Qk.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - general-catalyst
 - y-combinator
+- nexus-venture-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
+- Artificial Intelligence
+- AI Agents
+- Automation
+- Robotic Process Automation
+- Computer Use
+- Workflow Automation
+- UI Automation
 apis: []
+common:
+- type: TrustCenter
+  url: security/ramain-trust-center.yml
+- type: DomainSecurity
+  url: security/ramain-domain-security.yml
+- type: Website
+  url: https://ramain.ai
+- type: DeveloperPortal
+  url: https://platform.ramain.ai
+- type: Documentation
+  url: https://platform.ramain.ai/docs
+- type: SignUp
+  url: https://platform.ramain.ai
+- type: Pricing
+  url: https://ramain.ai/pricing
+- type: TermsOfService
+  url: https://ramain.ai/terms
+- type: PrivacyPolicy
+  url: https://ramain.ai/privacy
+- type: Support
+  url: https://ramain.ai/contact
+- type: Blog
+  url: https://ramain.ai/resources
+- type: Compliance
+  url: https://trust.ramain.ai
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
