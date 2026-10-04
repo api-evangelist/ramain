@@ -48,9 +48,9 @@ tags:
 - Artificial Intelligence
 - AI Agents
 - Automation
-- Robotic Process Automation
+- RPA
 - Computer Use
-- Workflow-Automation
+- Workflow Automation
 - UI Automation
 tags_raw:
 - Company
@@ -61,6 +61,7 @@ tags_raw:
 - Computer Use
 - Workflow Automation
 - UI Automation
+- Workflow-Automation
 apis: []
 common:
 - type: TrustCenter
