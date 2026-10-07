@@ -1,0 +1,21 @@
+# Pricing transcribed from the provider's own page — see provenance. Numbers are quoted, not derived.
+generated: '2026-10-07'
+method: searched
+source: https://ramain.ai/pricing
+sources:
+- https://ramain.ai/pricing
+provenance:
+  tool: all/0-working/economics/harvest_pricing.py
+  run: 20261007T104522
+  grounding: every price_text was found verbatim in the fetched page text
+audience: business-product
+pricing_basis: negotiated
+delivery:
+  delivery: unclear
+  method: page
+  read: '2026-10-07'
+published: false
+note: No numeric price is published on the pricing page; Page is a product/marketing page with no pricing;
+  only 'Get A Demo' CTAs. A '70% less cost of automation' claim appears but no numeric prices.
+plan_count: 0
+plans: []
